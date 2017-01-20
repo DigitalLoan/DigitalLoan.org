@@ -1,3 +1,3 @@
 # GitHub Pages Site
 
-URL: HTTP://DIGITALLOAN.ORG
+[DigitalLoan.org](http://DigitalLoan.org)
